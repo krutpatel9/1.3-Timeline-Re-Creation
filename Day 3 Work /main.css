@@ -1,0 +1,75 @@
+body {
+  display: block;
+}
+
+.a1 {
+  border: 2px solid 99BADD;
+  border-radius: 3px;
+  background-color: 99BADD;
+  max-width: 800px;
+  min-height: 300px;
+  padding-left: 20px;
+  position: relative;
+  left: 150px;
+  top: 50px;
+  padding-top: 16px;
+}
+
+h1 {
+  border-bottom: 2px solid white;
+  color: white
+
+}
+
+.p1 {
+  color: white;
+  font-size: 20px;
+}
+
+.a2 {
+  border: 2px solid rgba(0,105,182,1);
+  background-color: rgba(0,105,182,1);
+  border-radius: 3px;
+  max-width: 800px;
+  min-height: 200px;
+  padding-left: 20px;
+  position: relative;
+  left: 150px;
+  top: 75px;
+  }
+
+  h2 {
+    border-bottom: 2px solid white;
+    color: white;
+
+  }
+
+  .p2 {
+    color: white;
+
+  }
+
+.phone1 {
+  display: inline-block;
+  position: fixed;
+  top: 50px;
+}
+
+
+.line1 {
+  max-width: 11px;
+  background-color:black;
+  min-height: 475px;
+  position: fixed;
+  top: 115px;
+  left: 38px;
+
+}
+
+.comp1 {
+  max-width: 79px;
+  max-height: 76px;
+  position: fixed;
+  top: 394px;
+  left: 6px;
+}
